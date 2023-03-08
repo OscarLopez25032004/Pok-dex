@@ -1,24 +1,18 @@
 body {
-    background-image: url('img/kanto-map.jpeg');
+    background-color: rgba(255, 153, 0, 0.13);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     height: 100vh;
-    margin: 0;
+    margin: 10px auto 0;
 }
 .header1 {
-    color: white;
-    background-color: rgba(34, 34, 34, 0.7);
+    color: black;
     font-size: 40px;
-	border-radius: 20px;
-	padding: 0.5px;
     font-weight: bold;
 	text-align: center;
-    width: 325px;
-    height: 80px;
-	margin: 10px auto 0;
     font-family: 'Press Start 2P', cursive;
-    /* REVISAR */
+    margin-top: 
 }
 #img1 {
     width: 25%;
