@@ -6,17 +6,17 @@ body {
     height: 100vh;
     margin: 0;
 }
-.div2{
-
-}
 .header1 {
     color: white;
     background-color: rgba(34, 34, 34, 0.377);
     font-size: 40px;
-	font-weight: bold;
 	border-radius: 20px;
 	padding: 1px;
 	text-align: center;
     width: 15%;
 	margin: 0 auto;
+    font-family: 'Press Start 2P', cursive;
+}
+.div1 {
+    width: 20%;
 }
