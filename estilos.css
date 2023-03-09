@@ -1,3 +1,4 @@
+/* indican los estilos del body */
 body {
     background-image: url('img/kanto-map.jpeg');
     background-size: cover;
@@ -6,29 +7,34 @@ body {
     height: 100vh;
     margin: 0;
 }
-.header1 {
-    color: white;
+/* indican los estilos del h1 */
+h1 {
     background-color: rgba(34, 34, 34, 0.7);
+    margin-top: 10px;
+    color: white;
     font-size: 40px;
-	border-radius: 20px;
-	padding: 0.5px;
+	border-radius: 12px;
+    padding: 0.1px;
+    padding-top: 15px;
     font-weight: bold;
 	text-align: center;
     width: 325px;
-    height: 80px;
+    height: 55px;
 	margin: 10px auto 0;
     font-family: 'Press Start 2P', cursive;
-    /* REVISAR */
 }
+/* indican los estilos del img1 */
 #img1 {
     width: 25%;
 }
+/* indican los estilos de las entradas de la lista desordenada (li) */
 li {
     color: black;   
     font-family: 'Press Start 2P', cursive;
     font-size: 20px;
     margin-left: 20px;
 }
+/* indican los estilos del texto de las entradas de la lista desordenada */
 a {
     text-decoration: none;
     color: white;
