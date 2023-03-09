@@ -1,12 +1,15 @@
+/* indican los estilos de body */
 body {
     background-color: rgba(195, 0, 255, 0.164);
 }
+/* indican los estilos de span (estilos del tipo fantasma) */
 span {
     background-color: rgb(195, 0, 255);
     padding: 5px;
     font-weight: normal;
     border-radius: 5px;
 }
+/* indican los estilos de la clase header1 (titulo de gengar) */
 .header1 {
     color: black;
     font-size: 40px;
@@ -14,9 +17,11 @@ span {
 	text-align: center;
     font-family: 'Press Start 2P', cursive;
 }
+/* indican los estilos de la imagen de la derecha de gengar */
 #img1 {
     width: 25%;
 }
+/* indican los estilos de la primera descripción */
 .desc1 {
     color: black;
     font-size: 22px;
@@ -25,24 +30,28 @@ span {
     margin-bottom: 1px;
     font-family: 'Press Start 2P', cursive;
 }
+/* indican los estilos de la segunda descripción */
 .desc2 {
     color: black;
     font-size: 20px;
     margin-left: 10px;
     font-family: 'Press Start 2P', cursive;
 }
+/* indican los estilos del botón de la vuelta al inicio */
 button {
     background-color: red;
     border: none;
     padding: 10px;
     border-radius: 5px;
 }
+/* indican los estilos del botón de la vuelta al inicio */
 #boton-volver {
     display: block;
     width: 400px;
     margin: 0 auto;
     text-align: center;
 }
+/* indican los estilos de la letra del botón de la vuelta al inicio */
 a {
     color: white;
     text-decoration: none;
