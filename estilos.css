@@ -1,3 +1,15 @@
+/* indican las media queries */
+@media screen and (max-width: 700px) {
+    p {
+		font-size: 14px;
+	}
+	img {
+		max-width: 150px;
+	}
+	a {
+		font-size: 14px;
+	}
+}
 /* indican los estilos del body */
 body {
     background-image: url('img/kanto-map.jpeg');
@@ -8,7 +20,7 @@ body {
     margin: 0;
 }
 /* indican los estilos del h1 */
-h1 {
+p {
     background-color: rgba(34, 34, 34, 0.7);
     margin-top: 10px;
     color: white;
