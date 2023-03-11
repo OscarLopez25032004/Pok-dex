@@ -128,6 +128,7 @@ caption {
     font-weight: bold;
     margin-bottom: 10px;
 }
+/* indican los estilos del segundo span */
 .span {
     background-color: rgb(195, 0, 255);
     padding: 5px;
@@ -137,6 +138,7 @@ caption {
     display: block;
     text-align: center;
 }
+/* indican los estilos del segundo span */
 .ven {
     background-color: rgb(247, 0, 255);
     padding: 5px;
