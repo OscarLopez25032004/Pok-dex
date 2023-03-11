@@ -62,11 +62,11 @@ a {
 /* indican los estilos de la tabla */
 table {
     margin: 0 auto;
-    background-color: rgba(255, 150, 0, 0.4);
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px;
     margin-bottom: 10px;
+    background-color: rgba(255, 150, 0, 0.4);
 }
 table td img {
     display: block;

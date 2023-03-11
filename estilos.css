@@ -39,7 +39,7 @@ p {
 #img1 {
     width: 25%;
 }
-/* indican los estilos de las entradas de la lista desordenada (li) */
+/* indican los estilos de la tabla */
 table {
     margin-left: 10px;
 }
@@ -47,7 +47,6 @@ table td img {
     display: block;
     max-width: 200px;
 }
-/* indican los estilos del texto de las entradas de la lista desordenada */
 th {
     text-decoration: none;
     color: rgb(0, 0, 0);
